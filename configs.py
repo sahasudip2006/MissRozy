@@ -72,7 +72,7 @@ class Config(object):
 
 📡 **ʜᴏꜱᴛᴇᴅ ᴏɴ:** [koyeb](https://app.koyeb.com)
 
-🧑🏻‍💻 **DΞVΞLФPΞЯ:** [Click Here](htts://t.me/SUDIPSAHA06)
+🧑🏻‍💻 DΞVΞLФPΞЯ: [Click Here](https://t.me/SUDIPSAHA06)
 
 👥 **šupp⊕r† gr⊕up:** [LazY-SupP⊕ЯΓ](https://t.me/Ott_Movie_Request_Group)
 
