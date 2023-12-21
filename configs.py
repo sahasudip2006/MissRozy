@@ -36,12 +36,12 @@ CUSTOM_CAPTION = environ.get('CUSTOM_CAPTION')
 
 
 class Config(object):
-	API_ID = int(os.environ.get("API_ID", 13323016))
-	API_HASH = os.environ.get("API_HASH", "13323016")
-	BOT_TOKEN = os.environ.get("BOT_TOKEN","6144687436:AAGShuVn551CQHCWjRkdoBIteGgV0SUWxBo")
-	BOT_USERNAME = os.environ.get("BOT_USERNAME" , "MissRozy_BOT")
+	API_ID = int(os.environ.get("API_ID", 29849415))
+	API_HASH = os.environ.get("API_HASH", "0dd6c10897b85d7f10a8dcdeb74f8b8a")
+	BOT_TOKEN = os.environ.get("BOT_TOKEN","6017754784:AAHjl6vXYxCME51WlL2WmgOPxfAe7s5DDi4")
+	BOT_USERNAME = os.environ.get("BOT_USERNAME" , "PERMANENT_FILE_STORE_PRO_bot")
 	DB_CHANNEL = int(os.environ.get("DB_CHANNEL", -1001763943446))
-	BOT_OWNER = int(os.environ.get("BOT_OWNER", "5965340120"))
+	BOT_OWNER = int(os.environ.get("BOT_OWNER", "5165943027"))
 	DATABASE_URL = os.environ.get("DATABASE_URL","mongodb+srv://lazy:Zabintkhab7808@lazydev786.lpvunl5.mongodb.net/?retryWrites=true&w=majority")
 	UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "-1001765107260")
 	LOG_CHANNEL = os.environ.get("LOG_CHANNEL", "-1001763943446")
