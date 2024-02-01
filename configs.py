@@ -36,14 +36,14 @@ CUSTOM_CAPTION = environ.get('CUSTOM_CAPTION')
 
 
 class Config(object):
-	API_ID = int(os.environ.get("API_ID", 29849415))
+	API_ID = int(os.environ.get("API_ID", "29849415"))
 	API_HASH = os.environ.get("API_HASH", "0dd6c10897b85d7f10a8dcdeb74f8b8a")
 	BOT_TOKEN = os.environ.get("BOT_TOKEN","6017754784:AAHjl6vXYxCME51WlL2WmgOPxfAe7s5DDi4")
 	BOT_USERNAME = os.environ.get("BOT_USERNAME" , "PERMANENT_FILE_STORE_PRO_bot")
 	DB_CHANNEL = int(os.environ.get("DB_CHANNEL", "-1001973672285"))
 	BOT_OWNER = int(os.environ.get("BOT_OWNER", "5165943027"))
 	DATABASE_URL = os.environ.get("DATABASE_URL","mongodb+srv://dahif89943:sudipsaha2006@cluster0.iscxsme.mongodb.net/?retryWrites=true&w=majority")
-	UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "-1001953586887")
+	UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "-1001787034706")
 	LOG_CHANNEL = os.environ.get("LOG_CHANNEL", "-1001763943446")
 	BANNED_USERS = set(int(x) for x in os.environ.get("BANNED_USERS", "1234567890").split())
 	FORWARD_AS_COPY = bool(os.environ.get("FORWARD_AS_COPY", True))
@@ -72,9 +72,9 @@ class Config(object):
 
 📡 **ʜᴏꜱᴛᴇᴅ ᴏɴ:** [koyeb](https://app.koyeb.com)
 
-🧑🏻‍💻 DΞVΞLФPΞЯ: [Click Here](https://t.me/SUDIPSAHA06)
+🧑🏻‍💻 DΞVΞLФPΞЯ: [SUDIP](https://t.me/SUDIPSAHA06)
 
-👥 **šupp⊕r† gr⊕up:** [LazY-SupP⊕ЯΓ](https://t.me/Ott_Movie_Request_Group)
+👥 **šupp⊕r† gr⊕up:** [SupP⊕ЯΓ](https://t.me/+NAo_2MOcuoE4N2Q1)
 
 📢 **U͢p͢d͢a͢t͢e͢s͢ C͢h͢a͢n͢n͢e͢l͢:** [D͢e͢v͢e͢l͢o͢p͢e͢r͢](https://t.me/main_channel_bot_update)
 """
