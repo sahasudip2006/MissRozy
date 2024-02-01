@@ -117,7 +117,7 @@ async def Lazy_start():
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton("🍿supp⊕r† gr⊕up", url="https://t.me/Ott_Movie_Request_Group"),
+                            InlineKeyboardButton("🍿supp⊕r† gr⊕up", url="https://t.me/+NAo_2MOcuoE4N2Q1"),
                             InlineKeyboardButton("🔊ß⊕†s chαηηεl", url="https://t.me/main_channel_bot_update")
                         ],
                         [
@@ -125,7 +125,7 @@ async def Lazy_start():
                             InlineKeyboardButton("♥️Aß⊕ut Đ€V", callback_data="aboutdevs")
                         ],
                         [
-                            InlineKeyboardButton("⎝⎝✧✧ ᴡᴀᴛᴄʜ ᴛᴜᴛᴏʀɪᴀʟ ✧✧⎠⎠", url="https://t.me/main_channel_bot_update")
+                            InlineKeyboardButton("🎥Movie Request Group", url="https://t.me/Ott_Movie_Request_Group")
                         ]]))
             else :
                 await cmd.reply_photo(photo=lazy_pic,
@@ -133,7 +133,7 @@ async def Lazy_start():
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton("🍿supp⊕r† gr⊕up", url="https://t.me/Ott_Movie_Request_Group"),
+                            InlineKeyboardButton("🍿supp⊕r† gr⊕up", url="https://t.me/+NAo_2MOcuoE4N2Q1"),
                             InlineKeyboardButton("🔊ß⊕†s chαηηεl", url="https://t.me/main_channel_bot_update")
                         ],
                         [
@@ -141,7 +141,7 @@ async def Lazy_start():
                             InlineKeyboardButton("♥️Aß⊕ut Đ€V", callback_data="aboutdevs")
                         ],
                         [
-                            InlineKeyboardButton("⎝⎝✧✧ ᴡᴀᴛᴄʜ ᴛᴜᴛᴏʀɪᴀʟ ✧✧⎠⎠", url="https://t.me/main_channel_bot_update")
+                            InlineKeyboardButton("🎥Movie Request Group", url="https://t.me/Ott_Movie_Request_Group")
                         ]]))
             
         else:
@@ -413,7 +413,7 @@ async def Lazy_start():
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton("🍿supp⊕r† gr⊕up", url="https://t.me/Ott_Movie_Request_Group"),
+                            InlineKeyboardButton("🍿supp⊕r† gr⊕up", url="https://t.me/+NAo_2MOcuoE4N2Q1"),
                             InlineKeyboardButton("🔊ß⊕ts Channel", url="https://t.me/main_channel_bot_update")
                         ],
                         [
@@ -421,7 +421,7 @@ async def Lazy_start():
                             InlineKeyboardButton("♥️Aß⊕ut Đ€V", callback_data="aboutdevs")
                         ],
                         [
-                            InlineKeyboardButton("⎝⎝✧✧ ᴡᴀᴛᴄʜ ᴛᴜᴛᴏʀɪᴀʟ ✧✧⎠⎠", url="https://t.me/main_channel_bot_update")
+                            InlineKeyboardButton("🎥Movie Request Group", url="https://t.me/Ott_Movie_Request_Group")
                         ]
                     ]
                 )
@@ -433,7 +433,7 @@ async def Lazy_start():
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton("🍿supp⊕r† gr⊕up", url="https://t.me/Ott_Movie_Request_Group"),
+                            InlineKeyboardButton("🍿supp⊕r† gr⊕up", url="https://t.me/+NAo_2MOcuoE4N2Q1"),
                             InlineKeyboardButton("🔊ß⊕ts Channel", url="https://t.me/main_channel_bot_update")
                         ],
                         [
@@ -441,7 +441,7 @@ async def Lazy_start():
                             InlineKeyboardButton("♥️Aß⊕ut Đ€V", callback_data="aboutdevs")
                         ],
                         [
-                            InlineKeyboardButton("⎝⎝✧✧ ᴡᴀᴛᴄʜ ᴛᴜᴛᴏʀɪᴀʟ ✧✧⎠⎠", url="https://t.me/main_channel_bot_update")
+                            InlineKeyboardButton("🎥Movie Request Group", url="https://t.me/Ott_Movie_Request_Group")
                         ]
                     ]
                 )
@@ -491,7 +491,7 @@ async def Lazy_start():
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton("🍿supp⊕r† gr⊕up", url="https://t.me/Ott_Movie_Request_Group"),
+                            InlineKeyboardButton("🍿supp⊕r† gr⊕up", url="https://t.me/+NAo_2MOcuoE4N2Q1"),
                             InlineKeyboardButton("🔊ß⊕ts Channel", url="https://t.me/main_channel_bot_update")
                         ],
                         [
@@ -499,7 +499,7 @@ async def Lazy_start():
                             InlineKeyboardButton("♥️Aß⊕ut Đ€V", callback_data="aboutdevs")
                         ],
                         [
-                            InlineKeyboardButton("⎝⎝✧✧ ᴡᴀᴛᴄʜ ᴛᴜᴛᴏʀɪᴀʟ ✧✧⎠⎠", url="https://t.me/main_channel_bot_update")
+                            InlineKeyboardButton("🎥Movie Request Group", url="https://t.me/Ott_Movie_Request_Group")
                         ]
                     ]
                 )
@@ -511,7 +511,7 @@ async def Lazy_start():
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton("🍿supp⊕r† gr⊕up", url="https://t.me/Ott_Movie_Request_Group"),
+                            InlineKeyboardButton("🍿supp⊕r† gr⊕up", url="https://t.me/+NAo_2MOcuoE4N2Q1"),
                             InlineKeyboardButton("🔊ß⊕ts Channel", url="https://t.me/main_channel_bot_update")
                         ],
                         [
@@ -519,7 +519,7 @@ async def Lazy_start():
                             InlineKeyboardButton("♥️Aß⊕ut Đ€V", callback_data="aboutdevs")
                         ],
                         [
-                            InlineKeyboardButton("⎝⎝✧✧ ᴡᴀᴛᴄʜ ᴛᴜᴛᴏʀɪᴀʟ ✧✧⎠⎠", url="https://t.me/main_channel_bot_update")
+                            InlineKeyboardButton("🎥Movie Request Group", url="https://t.me/Ott_Movie_Request_Group")
                         ]
                     ]
                 )
